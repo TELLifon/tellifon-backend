@@ -3,7 +3,7 @@ boto3==1.12.36
 cfenv==0.5.3
 click==7.1.1
 dateutils==0.6.8
-Flask==1.1.2
+Flask==2.3.2
 flask-marshmallow==0.11.0
 flask-mongoengine==0.9.5
 Flask-RESTful==0.3.8
